@@ -1,0 +1,14 @@
+ccxt
+requests
+optuna
+pandas
+numpy==1.23.5
+pandas-ta
+ta
+xgboost
+scikit-learn
+openai
+python-telegram-bot
+mplfinance
+joblib
+pydantic
